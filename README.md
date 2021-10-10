@@ -1,4 +1,4 @@
 # ocr
 open-source ocr platform
 
-coming soon
+Project at https://github.com/gov-ai/ocr/issues/1
